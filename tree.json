@@ -65821,6 +65821,11 @@
       ]
     },
     {
+      "childRefs": [
+        {
+          "ref": "I611*c9fdb079-8f81-4d49-9ee1-12a65b51f2cc"
+        }
+      ],
       "husbandRefs": [
         {
           "ref": "I17558150"
@@ -316091,6 +316096,29 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F238*b44ff23b-4c95-4b6b-876d-0ae327accde2"
+        }
+      ],
+      "id": "I611*c9fdb079-8f81-4d49-9ee1-12a65b51f2cc",
+      "names": [
+        {
+          "value": "Gyanika Alina Pearly /Sinaga/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        },
+        {
+          "date": "12 SEP 2023",
+          "tag": "BIRT"
         }
       ]
     }
