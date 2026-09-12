@@ -316089,13 +316089,17 @@
       "id": "I610*cb81fe44-e6e4-401f-bc24-5e9749b2ab57",
       "names": [
         {
-          "value": "Regina //"
+          "value": "Regina Nathalia //"
         }
       ],
       "eventsFacts": [
         {
           "tag": "SEX",
           "value": "F"
+        },
+        {
+          "tag": "BIRT",
+          "value": "Y"
         }
       ]
     },
