@@ -65819,6 +65819,19 @@
           "ref": "I582*a2492982-ee01-4566-802e-fc931d60420a"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I17558150"
+        }
+      ],
+      "id": "F238*b44ff23b-4c95-4b6b-876d-0ae327accde2",
+      "wifeRefs": [
+        {
+          "ref": "I610*cb81fe44-e6e4-401f-bc24-5e9749b2ab57"
+        }
+      ]
     }
   ],
   "head": {
@@ -277543,6 +277556,11 @@
           "ref": "F52659100"
         }
       ],
+      "fams": [
+        {
+          "ref": "F238*b44ff23b-4c95-4b6b-876d-0ae327accde2"
+        }
+      ],
       "id": "I17558150",
       "names": [
         {
@@ -316054,6 +316072,25 @@
         {
           "sourceCitationsUnderValue": false,
           "value": "Child no.4"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F238*b44ff23b-4c95-4b6b-876d-0ae327accde2"
+        }
+      ],
+      "id": "I610*cb81fe44-e6e4-401f-bc24-5e9749b2ab57",
+      "names": [
+        {
+          "value": "Regina //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
