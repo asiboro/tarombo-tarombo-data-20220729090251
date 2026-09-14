@@ -65840,6 +65840,19 @@
           "ref": "I610*cb81fe44-e6e4-401f-bc24-5e9749b2ab57"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I613*a701bf09-253e-464c-861b-33c8e3e92811"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I69465728"
+        }
+      ],
+      "id": "F239*951ee863-29da-4c8a-be43-0eae8e5cafea"
     }
   ],
   "head": {
@@ -115159,6 +115172,11 @@
       "famc": [
         {
           "ref": "F73074313"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F239*951ee863-29da-4c8a-be43-0eae8e5cafea"
         }
       ],
       "id": "I69465728",
@@ -316148,6 +316166,25 @@
         },
         {
           "date": "5 SEP 2023",
+          "tag": "BIRT"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F239*951ee863-29da-4c8a-be43-0eae8e5cafea"
+        }
+      ],
+      "id": "I613*a701bf09-253e-464c-861b-33c8e3e92811",
+      "names": [
+        {
+          "value": "Eren Luvino /Matanari/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "date": "26 NOV 2024",
           "tag": "BIRT"
         }
       ]
