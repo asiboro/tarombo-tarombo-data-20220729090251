@@ -22504,6 +22504,9 @@
               }
             ]
           }
+        },
+        {
+          "ref": "I612*e806da6e-59c3-4c9b-91df-efc61845f32a"
         }
       ],
       "husbandRefs": [
@@ -316122,6 +316125,29 @@
         },
         {
           "date": "12 SEP 2023",
+          "tag": "BIRT"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F59293678"
+        }
+      ],
+      "id": "I612*e806da6e-59c3-4c9b-91df-efc61845f32a",
+      "names": [
+        {
+          "value": "Shemaya Eklesia /Sihombing/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        },
+        {
+          "date": "5 SEP 2023",
           "tag": "BIRT"
         }
       ]
