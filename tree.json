@@ -65852,7 +65852,12 @@
           "ref": "I69465728"
         }
       ],
-      "id": "F239*951ee863-29da-4c8a-be43-0eae8e5cafea"
+      "id": "F239*951ee863-29da-4c8a-be43-0eae8e5cafea",
+      "wifeRefs": [
+        {
+          "ref": "I614*e2182b5a-5fdf-4212-af31-77040b7e62cf"
+        }
+      ]
     }
   ],
   "head": {
@@ -316185,6 +316190,29 @@
       "eventsFacts": [
         {
           "date": "26 NOV 2024",
+          "tag": "BIRT"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F239*951ee863-29da-4c8a-be43-0eae8e5cafea"
+        }
+      ],
+      "id": "I614*e2182b5a-5fdf-4212-af31-77040b7e62cf",
+      "names": [
+        {
+          "value": "Endang Suryanti /Nababan/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        },
+        {
+          "date": "5 DEC 1993",
           "tag": "BIRT"
         }
       ]
