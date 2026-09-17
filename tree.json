@@ -94031,6 +94031,9 @@
           "givn": "Satoshi",
           "surn": "Tsuruhara",
           "value": "Satoshi /Tsuruhara/"
+        },
+        {
+          "value": " /鶴原/"
         }
       ],
       "eventsFacts": [
@@ -316254,6 +316257,11 @@
         {
           "tag": "SEX",
           "value": "F"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
         }
       ]
     }
