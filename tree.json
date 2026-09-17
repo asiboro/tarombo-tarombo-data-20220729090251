@@ -65858,6 +65858,19 @@
           "ref": "I614*e2182b5a-5fdf-4212-af31-77040b7e62cf"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I59470749"
+        }
+      ],
+      "id": "F240*a5401d63-6ea1-4b84-a6bb-5d96878e5a26",
+      "wifeRefs": [
+        {
+          "ref": "I615*95cf73b3-95c9-43af-a7f5-24111b4adbd9"
+        }
+      ]
     }
   ],
   "head": {
@@ -183636,6 +183649,11 @@
           "ref": "F14081212"
         }
       ],
+      "fams": [
+        {
+          "ref": "F240*a5401d63-6ea1-4b84-a6bb-5d96878e5a26"
+        }
+      ],
       "id": "I59470749",
       "names": [
         {
@@ -183651,6 +183669,7 @@
         },
         {
           "date": "Abt 1939",
+          "place": "",
           "tag": "BIRT"
         },
         {
@@ -316216,6 +316235,25 @@
         {
           "date": "5 DEC 1993",
           "tag": "BIRT"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F240*a5401d63-6ea1-4b84-a6bb-5d96878e5a26"
+        }
+      ],
+      "id": "I615*95cf73b3-95c9-43af-a7f5-24111b4adbd9",
+      "names": [
+        {
+          "value": "Yoko /Terada/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
