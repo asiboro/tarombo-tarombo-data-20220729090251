@@ -245886,6 +245886,17 @@
         {
           "tag": "SEX",
           "value": "F"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "DEAT",
+          "value": "Y"
         }
       ],
       "extensions": {
