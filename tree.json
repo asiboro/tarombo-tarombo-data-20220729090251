@@ -277630,6 +277630,10 @@
       ],
       "eventsFacts": [
         {
+          "tag": "SEX",
+          "value": "M"
+        },
+        {
           "tag": "_PRIV",
           "value": ""
         }
@@ -296353,6 +296357,10 @@
       ],
       "eventsFacts": [
         {
+          "tag": "SEX",
+          "value": "F"
+        },
+        {
           "tag": "_PRIV",
           "value": ""
         }
@@ -302302,6 +302310,12 @@
         }
       ],
       "id": "I8*2b363b62-1571-4fe8-902c-a599c12a7700",
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ],
       "names": [
         {
           "value": "Shelly /Manullang/"
